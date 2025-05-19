@@ -1,0 +1,3 @@
+{"claim": "Vaccines cause autism", "evidence": "There is no scientific evidence linking vaccines to autism according to the CDC and multiple peer-reviewed studies.", "label": "CONTRADICTION", "score": 0.9930395483970642}
+{"claim": "Drinking bleach can cure COVID-19", "evidence": "Medical experts warn that drinking bleach is extremely dangerous and has no curative properties.", "label": "CONTRADICTION", "score": 0.9977303147315979}
+{"claim": "Regular exercise improves cardiovascular health", "evidence": "Studies show that physical activity helps maintain healthy blood pressure and reduces risk of heart disease.", "label": "NEUTRAL", "score": 0.9381687641143799}
